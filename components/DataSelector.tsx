@@ -4,6 +4,13 @@ import styles from '../styles/DataSelector.module.scss'
 
 export const dataNameGroups = [
   {
+    group: 'Legal',
+    values: [
+      'Belex DE',
+      'Belex FR'
+    ]
+  },
+  {
     group: 'English',
     values: [
       'Quotes',
